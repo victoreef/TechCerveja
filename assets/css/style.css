@@ -1,0 +1,56 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Raleway:wght@400;600;700&display=swap'); 
+
+ body {
+    font-family: raleway;
+    background-color: #272727;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 59px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.card {
+    background-color: #CA7900;
+    width: 1238px;
+    height: 300px;
+    text-align: center;
+    border-radius: 40px;
+    margin: auto;
+}
+
+.card p {
+    color: #FFFFFF;
+
+
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.card img{
+    margin-top: -60px;
+    width: 164px;
+    height: 110px;
+}
+
+.botoes{
+    height: 76px;
+    width: 225px;
+    left: 455px;
+    top: 562px;
+    border-radius: 14px;
+    background-color: #CA7900;
+    border: 9px solid #F5F5F5;
+    margin-right: 20px;
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+    cursor: pointer;
+    
+
+}
